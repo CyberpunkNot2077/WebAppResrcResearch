@@ -1,0 +1,30 @@
+body {
+  margin: 50px;
+  font-family: Helvetica, sans-serif;
+  font-size: 150%;
+  background-color:lightblue;
+}
+#pros{
+  text-align:center;
+  background-color:red;
+}
+#cons{
+  text-align:center;
+  background-color:green;
+}
+#endgame{
+  text-align:center;
+  background-color:azure;
+}
+#what-makes{
+  text-align:center;
+  background-color: #ffcccc;
+}
+#what-do-you-do{
+  text-align:center;
+  background-color: #00bfff;
+}
+#works-cited{
+  text-align:center;
+  background-color: #bfff00;
+}
